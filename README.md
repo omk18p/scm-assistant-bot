@@ -1,5 +1,9 @@
 # SCM Assistant – Supply Chain RAG Chatbot
 
+## Github Repository
+
+[https://github.com/omk18p/scm-assistant-bot](https://github.com/omk18p/scm-assistant-bot)
+
 ## Public Chatbot URL
 
 [https://cloud.flowiseai.com/chatbot/14fbc6d3-ca56-4c23-8ef1-5555e503b982](https://cloud.flowiseai.com/chatbot/14fbc6d3-ca56-4c23-8ef1-5555e503b982)
